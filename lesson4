@@ -1,0 +1,26 @@
+Variables
+  are container for storing data values. like a dictionary for JAVASCRIPT
+  it consist of:
+  
+  -keyword(var, let, const)
+  -space (spacebar)
+  -identifiers (words to be used to)
+  -an equal sign
+  -value of the identifier (giving meaning to the identifier. never start with a number, always with a letter and always put "" sign or '')
+  -; (never forget to type this!)
+  
+  For example: var name="matthew";
+  
+Strings
+  String is/are the word(s) you put inside the "" of a variable. it is a reference on a variable
+
+Function (Arguments, return)
+ Set of statements either perform a task or calculate and return a value
+    return - it is a way to show the result of a calculation
+    Arguments - is the one we put in the parenthesis of a Function; Function myFunction (argument) {}
+
+if Statements
+  allows us to build a program that can make decisions based on certain conditions
+
+Boolean Values (true, false)
+  usually used in if statements to evaluate certain scenarios or conditions if it is a yes(true) or a no(false)
